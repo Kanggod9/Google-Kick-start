@@ -30,8 +30,7 @@ public class Boring {
         		if (j<1) {
         			answer++;
         		}
-        	
-        	System.out.println(i);
+        
         }
         T--;
         count++;
